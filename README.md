@@ -12,24 +12,20 @@ L'objectif de cette mission était de structurer des données issues de la Ligue
 
 ---
 
-## Structure du projet
+## Contenu du dépôt
 
-football-analytics-sql/
+### Documentation
 
-├── README.md
+- Expression_Besoin.pdf
 
-├── documentation/
-│   └── Expression_Besoin.pdf
+### Visuels
 
-├── images/
-│   ├── expression_besoin.jpg
-│   ├── schema_relationnel.jpg
-│   ├── requetes_sql_1.jpg
-│   ├── requetes_sql_2.jpg
-│   ├── analyse_xg.jpg
-│   └── typologie_attaquants.jpg
-
-└── .gitignore
+- Expression du besoin
+- Schéma relationnel
+- Requêtes SQL (partie 1)
+- Requêtes SQL (partie 2)
+- Analyse xG
+- Typologie des attaquants
 
 ---
 
@@ -53,9 +49,7 @@ Comment exploiter les données de performance de Ligue 1 afin d'identifier les j
 
 ![Expression du besoin](images/expression_besoin.jpg)
 
-Le besoin complet est disponible dans le document :
-
-📄 documentation/Expression_Besoin.pdf
+Le document complet d'expression des besoins est disponible dans le dossier **documentation** du projet.
 
 ---
 
